@@ -1,0 +1,6 @@
+*.classpath
+.project
+/ftr-postcodeapi-android/.settings
+/ftr-postcodeapi-gwt/.settings
+/ftr-postcodeapi-server/.settings
+/ftr-postcodeapi-shared/.settings
